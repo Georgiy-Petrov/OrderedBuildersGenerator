@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedBuildersGenerator", "OrderedBuildersGenerator\OrderedBuildersGenerator\OrderedBuildersGenerator.csproj", "{5D1D9748-4ACA-4B66-8AAA-7A629FB226F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedBuildersGenerator.Sample", "OrderedBuildersGenerator\OrderedBuildersGenerator.Sample\OrderedBuildersGenerator.Sample.csproj", "{EBA7F69B-9FA2-4BCD-963B-6641A15272EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1D9748-4ACA-4B66-8AAA-7A629FB226F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1D9748-4ACA-4B66-8AAA-7A629FB226F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1D9748-4ACA-4B66-8AAA-7A629FB226F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1D9748-4ACA-4B66-8AAA-7A629FB226F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA7F69B-9FA2-4BCD-963B-6641A15272EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA7F69B-9FA2-4BCD-963B-6641A15272EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA7F69B-9FA2-4BCD-963B-6641A15272EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA7F69B-9FA2-4BCD-963B-6641A15272EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
