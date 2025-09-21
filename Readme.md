@@ -1,6 +1,8 @@
 # OrderedBuildersGenerator
 
-> Fluent, compile-safe step builders from simple annotated classes — powered by a Roslyn incremental source generator.
+Fluent, compile-safe step builders from simple annotated classes — powered by a Roslyn incremental source generator.
+
+[![NuGet](https://img.shields.io/nuget/v/OrderedBuildersGenerator.svg?logo=nuget)](https://www.nuget.org/packages/OrderedBuildersGenerator)
 
 ---
 

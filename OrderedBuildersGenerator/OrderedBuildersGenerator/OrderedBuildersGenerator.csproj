@@ -20,6 +20,7 @@
         <RootNamespace>OrderedBuildersGenerator</RootNamespace>
         <PackageId>OrderedBuildersGenerator</PackageId>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
